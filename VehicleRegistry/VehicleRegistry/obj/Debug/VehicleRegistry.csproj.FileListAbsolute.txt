@@ -1,0 +1,5 @@
+C:\Dev\VehicleRegistry\bin\Debug\VehicleRegistry.dll
+C:\Dev\VehicleRegistry\bin\Debug\VehicleRegistry.pdb
+C:\Dev\VehicleRegistry\obj\Debug\VehicleRegistry.csprojResolveAssemblyReference.cache
+C:\Dev\VehicleRegistry\obj\Debug\VehicleRegistry.dll
+C:\Dev\VehicleRegistry\obj\Debug\VehicleRegistry.pdb
